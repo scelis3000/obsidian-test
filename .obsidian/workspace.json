@@ -46,9 +46,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.12.7"
             }
+          },
+          {
+            "id": "1b6a23bd3bb410cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f23463b429636993",
@@ -223,11 +237,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-gitless-sync:Open sync conflicts view": false,
+      "github-gitless-sync:Sync with GitHub": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72905f36b123ebfa",
+  "active": "1b6a23bd3bb410cd",
   "lastOpenFiles": [
+    "git plugin test 837.md",
     "Welcome.md",
     "testtest.md"
   ]
